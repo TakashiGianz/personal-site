@@ -1,9 +1,9 @@
-import { NavBar } from './components/navbar'
+import { InitialPage } from './components/InitialPage'
 
 function App() {
   return (
     <>
-    <NavBar></NavBar>
+    <InitialPage></InitialPage>
     </>
   )
 }
